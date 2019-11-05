@@ -3,7 +3,7 @@ CAMLIS-BSIDESdc-ATTACKcon - October 2019
 # Brief Overview
 These conferences happened around the same time at Washington DC/McLean. My original idea was attending only ATTACKcon but I noticed CAMLIS was getting a lot of hype a few days before so I tried to join it too (got lucky!). Wasn't aware of BSidesDC but I also managed to attend a few talks.
 
-These are my compiled notes and take aways from the talks I attended. I was mainly interested in Threat Hunting operations and what's new for techniques, tooling, analysis ideas, etc. There was a lot of content for 5 days and of course I couldn't attent all of them. Check the following links below for all the topics and talks.
+These are my compiled notes and take aways from the talks I attended. I was mainly interested in Threat Hunting operations and what's new for techniques, tooling, analysis ideas, etc. There was a lot of content for 5 days and of course I couldn't attend all of them. Check the following links below for all the topics and talks.
 
 ## Quick view:
 - CAMLIS (25-26 October) - https://www.camlis.org/2019/talks/
@@ -13,7 +13,7 @@ These are my compiled notes and take aways from the talks I attended. I was main
 ### CAMLIS
 
 Camlis.org **2nd Day** - Conference for Applied Machine Learning and Security
-Sadly, only managed to attend the 2nd day. Initially I thought CAMLIS was going to be way more academic with some rocket surgegy level algorithms and math. Turns out a lot was about practical implementation, jupyter playbooks and awesome inputs for Threat Hunting. Most references can be found here: https://www.camlis.org/2019/program
+Sadly, only managed to attend the 2nd day. Initially I thought CAMLIS was going to be way more academic with some rocket surgery level algorithms and math. Turns out a lot was about practical implementation, jupyter playbooks and awesome inputs for Threat Hunting. Most references can be found here: https://www.camlis.org/2019/program
 
 - **RAPIDS AI** 
 https://github.com/rapidsai/notebooks
@@ -62,7 +62,7 @@ https://www.slideshare.net/MatthewDunwoody1/no-easy-breach-derby-con-2016
 
 **TrisulNSM** has a ja3prints - https://www.trisul.org/
 
-**JA3 Synergy Dataset** - This research was mentioned in a slide but it's _not open source "yet"_. The idea behind it is to leavarage our visiblity to correlate HTTP traffic with SSL/TLS traffic based upon protocol metadata and approximate timing. User agents correlations with similar kind related to JA3.
+**JA3 Synergy Dataset** - This research was mentioned in a slide but it's _not open source "yet"_. The idea behind it is to leverage visibility and correlate HTTP traffic with SSL/TLS traffic based upon protocol metadata and approximate timing. User agents correlations with similar kind related to JA3.
 
 
 ### ATTACKcon
@@ -77,7 +77,7 @@ Some TTPs in the wild:
     - GoldStamp implant can access the victim's clipboard
     - Replacing cryptocurrency wallet addresses
   - **Persistence, Browser Extensions (T1176)**
-    - Malicious Chrome Externsions
+    - Malicious Chrome Extensions
     - Compromised Gmail account
   - **Impact, Runtime Data Manipulation (T1494)**
   - **Credential Access, Input Capture (T1056)**
@@ -125,7 +125,7 @@ References: "Information Seeking Mantra"[1] and "Feedback loop process"[2]
 
 - **MITRE ATT&CK Dat perspective** - Olaf Hartong (@olafhartong)- Presented a toolkit for processing data sources and techniques.
   - Data source weights workbook - With a view of techniques, data source and weights
-  - Rating workbook - Provices a rating related to quality dimensions of Completeness, Timeliness, Availability and Score.
+  - Rating workbook - Provides a rating related to quality dimensions of Completeness, Timeliness, Availability and Score.
   - Technique application workbook - Gives a view of Technique, Data Source and a score from the Alerting, Hunting and Forensics perspective.
   - Graph modeled assessment ilustrates paths and attacked could take based on the relationship of you data sources and you coverage
 
