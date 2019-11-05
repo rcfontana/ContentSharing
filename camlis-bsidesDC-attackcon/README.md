@@ -89,6 +89,7 @@ Some TTPs in the wild:
   - **Defense evasion | Execution, CMSTP (T1191)**
     - Batch file launched
     - Ultimately led to writing 2612.inf
+    
 More at: https://www.crowdstrike.com/resources/reports/observations-from-the-front-lines-of-threat-hunting/
 
 - **Misinformation Threat Sharing** - Sara-Jayne Terp. https://github.com/misinfosecproject/amitt_framework
