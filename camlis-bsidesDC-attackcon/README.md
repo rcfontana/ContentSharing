@@ -78,10 +78,18 @@ Some TTPs in the wild:
     - Replacing cryptocurrency wallet addresses
   - **Persistence, Browser Extensions (T1176)**
     - Malicious Chrome Extensions
-    - Compromised Gmail account
+    - Compromised Gmail account used to "advertise" the extension in Chrome Web Browser
   - **Impact, Runtime Data Manipulation (T1494)**
+    - Backdoored versions of Linux administration tools
+    - Config file had strings to execute from output of commands
+    - ``` rm -f ps/*.o```
   - **Credential Access, Input Capture (T1056)**
-  - **Defense evasion | Execution, CMSTP (T1191)**      
+    - SSH daemon modified
+    - auth_password funciont logs login password to adversary designed file
+  - **Defense evasion | Execution, CMSTP (T1191)**
+    - Batch file launched
+    - Ultimately led to writing 2612.inf
+More at: https://www.crowdstrike.com/resources/reports/observations-from-the-front-lines-of-threat-hunting/
 
 - **Misinformation Threat Sharing** - Sara-Jayne Terp. https://github.com/misinfosecproject/amitt_framework
 
