@@ -10,10 +10,9 @@ These are my compiled notes and take aways from the talks I attended. I was main
 - BsidesDC (25-27 October) - https://bsidesdc2019.busyconf.com/schedule
 - ATTACKcon (28 precon, 29-30 October) - https://www.mitre.org/attackcon (videos)
 
-### CAMLIS
+### CAMLIS (Conference for Applied Machine Learning and Security)
 
-Camlis.org **2nd Day** - Conference for Applied Machine Learning and Security
-Sadly, only managed to attend the 2nd day. Initially I thought CAMLIS was going to be way more academic with some rocket surgery level algorithms and math. Turns out a lot was about practical implementation, jupyter playbooks and awesome inputs for Threat Hunting. Most references can be found here: https://www.camlis.org/2019/program
+Camlis.org **2nd Day** - Sadly, only managed to attend the 2nd day. Initially I thought CAMLIS was going to be way more academic with some rocket surgery level algorithms and math. Turns out a lot was about practical implementation, jupyter playbooks and awesome inputs for Threat Hunting. Most references can be found here: https://www.camlis.org/2019/program
 
 - **RAPIDS AI** 
 https://github.com/rapidsai/notebooks
