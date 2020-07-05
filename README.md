@@ -4,7 +4,7 @@
   
 
 ## Slides
-[Threat Hunting Process](../master/Presentations/ThreatHuntingProcess.pdf) 
+Presentation slides of the [Threat Hunting Process](../master/Presentations/ThreatHuntingProcess.pdf) - MITRE EU Workshop 2020
 
 ## Notes
-[2019-Camlis-bsidesDC-attackcon](../master/camlis-bsidesDC-attackcon)
+Conferece notes from [CAMLIS-BsidesDC-Attackcon](../master/camlis-bsidesDC-attackcon) - October 2019
