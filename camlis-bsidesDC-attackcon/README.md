@@ -1,4 +1,4 @@
-CAMLIS-BSIDESdc-ATTACKcon - October 2019
+[NOTES] CAMLIS-BSIDESdc-ATTACKcon - October 2019
 
 # Brief Overview
 These conferences happened around the same time at Washington DC/McLean. My original idea was attending only ATTACKcon but I noticed CAMLIS was getting a lot of hype a few days before so I tried to join it too (got lucky!). Wasn't aware of BSidesDC but I also managed to attend a few talks.
